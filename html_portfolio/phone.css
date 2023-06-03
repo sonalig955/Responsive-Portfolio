@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Dancing+Script:wght@700&family=Kaushan+Script&family=Pacifico&family=Satisfy&display=swap');
+
+
+
+/* nav section */
+nav{
+    flex-direction: column;
+    
+}
+nav div h1{
+    margin-right: 137px;
+
+}
+nav ul{
+    margin-left: -33px;
+}
+#para{
+    width: 890px;
+    margin-left: 389px;
+    margin-bottom: 120px;
+}
+/* wrapper */
+.wrapper{
+    display: block;
+    margin-left: 384px;
+    width: 383px;
+}
+#hover{
+    margin-top: -26px;
+    top: 102%;
+    left: 72%;
+}
+.container{
+    display: none;
+}
+#box2{
+    margin-left: 92px;
+}
+
+.Box{
+    left: 7%;
+
+}
+.Box1{
+    left: 27%;
+}
+.Box2{
+    left: 47%;
+}
+.Box3{
+    left: 67%;
+}box{
+    padding-left: 573px;
+}
+.skillbox h1{
+    padding-left: 556px;
+}
+#Box_2 h2 {
+    padding-left: 0px;
+}
+#input1, #input3, #input4, #button1{
+    margin-left: 0px;
+}
+#H1{
+    padding-left: 492px;
+    color: white;
+    font-family: 'Allura', cursive;
+}
+#skillsH1{
+    padding-left: 575px;
+    color: white;
+    font-family: 'Allura', cursive;
+}
+#About h1{
+    margin-left: 567px;
+    color: white;
+    font-family: 'Allura', cursive;
+}
+
+/* about */
+/* skills */
+/* contacts */
